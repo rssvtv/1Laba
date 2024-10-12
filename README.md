@@ -15,6 +15,10 @@
         <img src="https://github.com/user-attachments/assets/cb8d05af-a6d5-4142-a83f-45f6518fa279" width="250>
 </p> 
 
+
+
+
+
 ## Установка и запуск
 
 1. Скачать ZIP проекта.
