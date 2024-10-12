@@ -11,8 +11,9 @@
 - После чего появляется отображение текста "Переданный параметр: Лепехина".
 
 <p align="center">
-    <img src="https://github.com/Made9Ts/First-laboratory/blob/74c01f9e12d5e30bba4d3e48c2f55bf6ab7b54d5/image.png" width="250"> 
-    <img src="https://github.com/Made9Ts/First-laboratory/blob/a0bea4ed00c0cb5af31480690ce2be3e68af3fee/image1.png" width="250">
+   ![5208434298317825630](https://github.com/user-attachments/assets/1b4062b2-9a50-4210-8c92-40a346f1fcd3)
+![5208434298317825631](https://github.com/user-attachments/assets/ff62ebb3-863a-476e-bc51-081184d2404e)
+
 </p> 
 
 ## <a id="Как-собрать-проект">Как собрать проект?</a>
