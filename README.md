@@ -12,6 +12,9 @@
 
 <p align="center">
         <img src="https://github.com/user-attachments/assets/1b4062b2-9a50-4210-8c92-40a346f1fcd3" width="250>
+                
+        <img src="https://github.com/user-attachments/assets/f5e1235b-b0ce-44ab-b544-c040ed47cfa6" width="250>
+
 </p> 
 
 ## Установка и запуск
